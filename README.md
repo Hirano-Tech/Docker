@@ -2,8 +2,10 @@
 
 ## ● Docker コマンド クイック・リファレンス
 
-- `$ docker --version`：インストールされている Docker のバージョンを確認する。
-- `$ docker-compose --version`：インストールされている Docker-Compose のバージョンを確認する。
+- `$ docker --version` ：インストールされている Docker のバージョンを確認する。
+- `$ docker-compose --version` ：インストールされている Docker-Compose のバージョンを確認する。
+- `$ docker-compose up -d` ：Docker コンテナ郡をバックグラウンドで起動する。
+- `$ docker-compose stop` ：Docker コンテナ郡を停止する。
 
 ## ● Linux（Ubuntu）に Docker をインストールする。
 
